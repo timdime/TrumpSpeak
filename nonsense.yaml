@@ -1,0 +1,66 @@
+beginning: [
+"Let me tell you...$topic$, this is a$emphasis$$big_adj$ $severity$ folks.  ",
+"You know a lot of people have been talking about this.  We can't ignore $topic$.  This is a$emphasis$$big_adj$ $severity$.  ",
+]
+
+emphasis: [
+" ",
+" very, very, very ",
+" really, really ",
+]
+
+random_emphasis: [
+"I don't know, but that is what people are telling me.  ",
+"Believe me.  ",
+"This is serious folks.  ",
+"This is huge.  ",
+"They are doing everything they can.  ",
+"We are doing everything we can.  ",
+"People tell me I am $status_adj$.  ",
+"",
+]
+
+severity: [
+"problem",
+"issue",
+"deal",
+]
+
+middle: [
+"My friend, who is a$emphasis$$status_adj$ $professions$ told me all about it.  ",
+"I have heard from $counts$ that all tell me how $big_adj$ this is.  This is a big $severity$.  ",
+]
+
+end: [
+"We have our best people working on this.  And they have been doing an amazing job.  They are fantastic...The best.  $topic$...It is not an easy problem to solve folks.  ",
+"We have a real problem.  You know you can't solve a problem until you find out what's the root cause.  My friends, they already called me to thank me for looking into this.  $topic$...They know it's a real problem.  I have a plan and it's going to be big.  ",
+"I am going to make America great again.  $topic$...Yeah, I know it is a problem.  I have a plan.  A plan so good that I can't say because then they will know.  We will win, and keep winning.  They won't know what to do because we will be winning so much!  "
+]
+
+counts: [
+"dozens of people",
+"hundreds of people",
+"more than a dozen people",
+"thousands of people",
+]
+
+professions: [
+"lawyer",
+"doctor",
+"business man",
+]
+
+big_adj: [
+"big",
+"huge",
+"massive",
+"tremendous",
+]
+
+status_adj: [
+"famous",
+"smart",
+"amazing",
+"good",
+"rich",
+]
