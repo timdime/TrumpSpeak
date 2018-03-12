@@ -12,10 +12,11 @@ Example Output: (1)
 
   President Trump's Reponse: 
 
-    Let me tell you...Violence in Video Games, this is a big issue folks.  They are doing everything they can.  My friend, who
-    is a rich lawyer told me all about it.  I am going to make America great again.  Violence in Video Games...Yeah, I know it 
-    is a problem.  I have a plan.  A plan so good that I can't say because then they will know.  We will win, and keep winning.  
-    They won't know what to do because we will be winning so much!  I don't know, but that is what people are telling me. 
+    Let me tell you...Violence in Video Games, this is a big issue folks.  They are doing everything they can.  My
+    friend, who is a rich lawyer told me all about it.  I am going to make America great again.  Violence in Video
+    Games...Yeah, I know it is a problem.  I have a plan.  A plan so good that I can't say because then they will 
+    know.  We will win, and keep winning.  They won't know what to do because we will be winning so much!  I don't
+    know, but that is what people are telling me. 
     
     
 Example Output: (2)
