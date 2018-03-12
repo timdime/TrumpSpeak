@@ -1,6 +1,5 @@
 # TrumpSpeak
-President Trump's brain solved when answering questions; by answering questions without really answering
-questions or saying anything intelligible.
+President Trump's brain solved when answering questions; by responding without saying anything intelligible at a 4th grade level.
 
 Example Output: (1)
 
