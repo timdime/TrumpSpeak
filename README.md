@@ -1,6 +1,8 @@
 # TrumpSpeak
 President Trump's brain solved when answering questions; by responding without saying anything intelligible at a 4th grade level.
 
+published on pythonanywhere with flask:  http://asktrump.timdime.com
+
 Example Output: (1)
 
   What topic do you want President Trump's opinion on?
